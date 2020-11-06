@@ -5,8 +5,6 @@ Check a preview: https://reactjs-antd-crud.netlify.app/
 ![Alt text](https://icecube-us-842.icedrive.io/thumbnail?p=1Mz%2BBqFzsLBYE6WHFPthSJk6XUVnFhJYoh0maQA9reo0RtX8BnHcLY%2FcjS7J63uWhr38uWbzrIkFgbTi5uDhpT4RptWZ5bVa6HVFNQ%2FPuNJJfUzkkVU%2Fq53evKRUXxsg&w=1280&h=1280&m=cropped?raw=true "Optional Title")
 
 
-<a href="http://stackoverflow.com" target="_blank">Go</a>
-
 ## Available Scripts
 
 In the project directory, you can run:
